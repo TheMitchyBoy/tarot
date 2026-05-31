@@ -1,2 +1,2 @@
 # tarot
-random tarot card project for fun
+Run python3 tarot.py
